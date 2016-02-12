@@ -1,0 +1,11 @@
+C:\Users\JoséMario\AppData\Local\Syncfusion\EssentialStudio\13.1.0.21\Windows\Tools.Windows\Samples\GroupBar\GroupBar\TestLibraries\bin\Debug\TestLibraries.exe.config
+C:\Users\JoséMario\AppData\Local\Syncfusion\EssentialStudio\13.1.0.21\Windows\Tools.Windows\Samples\GroupBar\GroupBar\TestLibraries\bin\Debug\TestLibraries.exe
+C:\Users\JoséMario\AppData\Local\Syncfusion\EssentialStudio\13.1.0.21\Windows\Tools.Windows\Samples\GroupBar\GroupBar\TestLibraries\bin\Debug\TestLibraries.pdb
+C:\Users\JoséMario\AppData\Local\Syncfusion\EssentialStudio\13.1.0.21\Windows\Tools.Windows\Samples\GroupBar\GroupBar\TestLibraries\obj\Debug\TestLibraries.csprojResolveAssemblyReference.cache
+C:\Users\JoséMario\AppData\Local\Syncfusion\EssentialStudio\13.1.0.21\Windows\Tools.Windows\Samples\GroupBar\GroupBar\TestLibraries\obj\Debug\TestLibraries.exe
+C:\Users\JoséMario\AppData\Local\Syncfusion\EssentialStudio\13.1.0.21\Windows\Tools.Windows\Samples\GroupBar\GroupBar\TestLibraries\obj\Debug\TestLibraries.pdb
+C:\Users\JoséMario\AppData\Local\Syncfusion\EssentialStudio\13.1.0.21\Windows\Tools.Windows\Samples\GroupBar\GroupBar\TestLibraries\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\JoséMario\AppData\Local\Syncfusion\EssentialStudio\13.1.0.21\Windows\Tools.Windows\Samples\GroupBar\GroupBar\TestLibraries\bin\Debug\MathExpressions.NET.dll
+C:\Users\JoséMario\AppData\Local\Syncfusion\EssentialStudio\13.1.0.21\Windows\Tools.Windows\Samples\GroupBar\GroupBar\TestLibraries\bin\Debug\Mono.Cecil.dll
+C:\Users\JoséMario\AppData\Local\Syncfusion\EssentialStudio\13.1.0.21\Windows\Tools.Windows\Samples\GroupBar\GroupBar\TestLibraries\bin\Debug\GOLD Engine.dll
+C:\Users\JoséMario\AppData\Local\Syncfusion\EssentialStudio\13.1.0.21\Windows\Tools.Windows\Samples\GroupBar\GroupBar\TestLibraries\bin\Debug\MathExpressions.NET.pdb

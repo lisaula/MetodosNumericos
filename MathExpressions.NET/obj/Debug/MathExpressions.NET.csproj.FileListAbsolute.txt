@@ -1,0 +1,46 @@
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\bin\Debug\MathExpressions.NET.dll
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\bin\Debug\MathExpressions.NET.pdb
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\bin\Debug\GOLD Engine.dll
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\bin\Debug\Mono.Cecil.dll
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\obj\Debug\MathExpressions.NET.csprojResolveAssemblyReference.cache
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\obj\Debug\MathExpressionsNET.Properties.Resources.resources
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\obj\Debug\MathExpressions.NET.csproj.GenerateResource.Cache
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\obj\Debug\MathExpressions.NET.dll
+C:\Users\JoséMario\Desktop\MathExpressions.NET-master\MathExpressions.NET\obj\Debug\MathExpressions.NET.pdb
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\MathExpressions.NET\bin\Debug\MathExpressions.NET.dll
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\MathExpressions.NET\bin\Debug\MathExpressions.NET.pdb
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.dll
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressionsNET.Properties.Resources.resources
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.csproj.GenerateResource.Cache
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.dll
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.pdb
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\MathExpressions.NET\bin\Debug\MathExpressions.NET.dll
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\MathExpressions.NET\bin\Debug\MathExpressions.NET.pdb
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.dll
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.csprojResolveAssemblyReference.cache
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressionsNET.Properties.Resources.resources
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.csproj.GenerateResource.Cache
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.dll
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.pdb
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\MathExpressions.NET\bin\Debug\MathExpressions.NET.dll
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\MathExpressions.NET\bin\Debug\MathExpressions.NET.pdb
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.dll
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\MathExpressions.NET\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.csprojResolveAssemblyReference.cache
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressionsNET.Properties.Resources.resources
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.csproj.GenerateResource.Cache
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.dll
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\MathExpressions.NET\obj\Debug\MathExpressions.NET.pdb

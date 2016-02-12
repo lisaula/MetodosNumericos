@@ -1,0 +1,42 @@
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\bin\Debug\Main.exe.config
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\bin\Debug\Main.exe
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\bin\Debug\Main.pdb
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\bin\Debug\info.lundin.math.dll
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\bin\Debug\MathExpressions.NET.dll
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\bin\Debug\Mono.Cecil.dll
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\bin\Debug\GOLD Engine.dll
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\bin\Debug\MathExpressions.NET.pdb
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\obj\Debug\Main.exe
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\obj\Debug\Main.pdb
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\bin\Debug\MathNet.Numerics.dll
+C:\Users\Alejandro\documents\visual studio 2013\Projects\MetodosNumericos\Main\bin\Debug\MathNet.Numerics.xml
+F:\MetodosNumericos\Main\bin\Debug\Main.exe.config
+F:\MetodosNumericos\Main\obj\Debug\Main.exe
+F:\MetodosNumericos\Main\obj\Debug\Main.pdb
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\bin\Debug\Main.exe.config
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\obj\Debug\Main.exe
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\obj\Debug\Main.pdb
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\bin\Debug\Main.exe
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\bin\Debug\Main.pdb
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\bin\Debug\info.lundin.math.dll
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\bin\Debug\MathExpressions.NET.dll
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\bin\Debug\MathNet.Numerics.dll
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\bin\Debug\Mono.Cecil.dll
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\bin\Debug\GOLD Engine.dll
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\bin\Debug\MathExpressions.NET.pdb
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\bin\Debug\MathNet.Numerics.xml
+C:\Users\Ricardx\Desktop\Escritorio\MetodosNumericos\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\bin\Debug\Main.exe.config
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\obj\Debug\Main.exe
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\obj\Debug\Main.pdb
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\bin\Debug\Main.exe
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\bin\Debug\Main.pdb
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\bin\Debug\info.lundin.math.dll
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\bin\Debug\MathExpressions.NET.dll
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\bin\Debug\MathNet.Numerics.dll
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\bin\Debug\GOLD Engine.dll
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\bin\Debug\Mono.Cecil.dll
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\bin\Debug\MathExpressions.NET.pdb
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\bin\Debug\MathNet.Numerics.xml
+C:\Users\luisc\Desktop\Metodos Numericos\MetodosNumericos\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
